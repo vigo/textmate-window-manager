@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>TextMate Window Manager</string>
+	<key>ordering</key>
+	<array>
+		<string>0F3E1655-8CC9-4643-B723-0AECA46A0174</string>
+		<string>E929BCE9-D8F1-4A66-ABEE-086807CB847F</string>
+		<string>C4A68CF2-2054-4D62-93D4-A68FD5DF7A39</string>
+	</array>
+	<key>uuid</key>
+	<string>24001CC2-4C17-443E-8A53-F0E85E103FC9</string>
+</dict>
+</plist>
